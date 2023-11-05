@@ -15,10 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KartikeyBartwal&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ (Good quote but not written by me)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 Random Dev Meme
+### 😂 (Let's take a chill pill)
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
