@@ -8,6 +8,8 @@
 ## 🚀 Open Source Contributor
 - Active contributor on Sci-kit learn and TensorFlow repositories of Python
 - Contribute to other good repos as well
+- Hacktoberfest
+- SWOC (Student Winter of Code)
 
 ## 💼 Freelancer 💻📊🧔
 - Data analysis
@@ -17,11 +19,24 @@
 - CRISP strategy for data science projects
 - Web applications to deploy the projects on live servers
 - Generative AI's: Large Language Model fine-tunings, Stable Diffusion, object detection, data pipelines, langchain, chainlit
+- Q-learning for reinforcement learning
+- Google Cloud Platform machine learning tech stacks
 
-## 🔍 Ongoing Research papers
+## Tech Stacks
+- Spark Mlib
+- Tensorflow
+- Linux
+- Langchain
+- Chainlit
+- Streamlit
+- MLflow
+- ZenML
+Major others are mentioned below 
+
+## 🔍 Research papers
 - 📊 Early diagnosis of diabetes using Random Forest machine learning algorithm and Artificial Neural Network deep learning techniques 🩺🤖
 - 😔 Depression detection by using user activity as data and the application of BERT transformer-based models 📉
-- 🎶 Refining digital audio signals with sequential deep learning techniques: LSTM, BI-LSTM, and GRU 🎧
+- 🎶 Refining digital audio signals with sequential deep learning techniques: ComplexBiLSTM 🎧
 
 
 ## 🌐 Socials:
@@ -40,7 +55,7 @@
 ### ✍️ (Good quote but not written by me)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 (Let's take a chill pill)
+### (Let's take a chill pill)
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
