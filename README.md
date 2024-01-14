@@ -1,5 +1,27 @@
 # 💫 About Me:
-🔥LeetCoder: <br>Contest rating: Top 5% worldwide<br>General ranking: 3900 worldwide<br><br>🚀 Open Source Contributor:<br>Active contributor on Sci-kit learn and TensorFlow repositories of python<br>Contribute to other good repos as well<br><br>💼 Freelancer  💻📊🧔<br>Data analysis<br>Data driven decision making <br>Predictive model building<br>Building chatbots using large language models<br>CRISP strategy for data science projects<br>Web applications to deploy the projects on live servers<br><br>🔍 Ongoing Research papers:<br>📊 Early diagnosis of diabetes using Random Forest machine learning algorithm and Artificial Neural Network deep learning techniques 🩺🤖<br>😔 Depression detection by using user activity as data and the application of BERT transformer-based models 📉<br>🎶 Refining digital audio signals with sequential deep learning techniques: LSTM, BI-LSTM, and GRU 🎧
+# 👨‍💻 LeetCoder
+
+## Contest Stats
+- Contest rating: Top 5% worldwide
+- General ranking: 3900 worldwide
+
+## 🚀 Open Source Contributor
+- Active contributor on Sci-kit learn and TensorFlow repositories of Python
+- Contribute to other good repos as well
+
+## 💼 Freelancer 💻📊🧔
+- Data analysis
+- Data-driven decision-making
+- Predictive model building
+- Building chatbots using large language models
+- CRISP strategy for data science projects
+- Web applications to deploy the projects on live servers
+- Generative AI's: Large Language Model fine-tunings, Stable Diffusion, object detection, data pipelines, langchain, chainlit
+
+## 🔍 Ongoing Research papers
+- 📊 Early diagnosis of diabetes using Random Forest machine learning algorithm and Artificial Neural Network deep learning techniques 🩺🤖
+- 😔 Depression detection by using user activity as data and the application of BERT transformer-based models 📉
+- 🎶 Refining digital audio signals with sequential deep learning techniques: LSTM, BI-LSTM, and GRU 🎧
 
 
 ## 🌐 Socials:
