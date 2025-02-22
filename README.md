@@ -1,6 +1,6 @@
-# 💫 About Me
+# About Me
 
-🚀 **AI Engineer | Data Scientist | Competitive Coder | Public Speaker**
+ **AI Engineer | Data Scientist | Competitive Coder | Public Speaker**
 
 Merging deep technical expertise with strong communication and leadership skills to drive real-world AI solutions and problem-solving innovations.
 
